@@ -1,0 +1,86 @@
+1707700 C2334 LATE The delivery appt has passed
+1703089 22116 LATE The delivery appt has passed
+1708031 11918 LATE The delivery appt has passed
+1704756 22192 LATE The delivery appt has passed
+1707491 2358 LATE The transit time is too long. Driver is rolling, but does not have enough HOS.
+1707057 B499 LATE The delivery appt has passed
+1707048 2283 LATE The delivery appt has passed
+1706839 C20167 LATE The delivery appt has passed
+1705090 2216 LATE The delivery appt has passed
+1705788 2170 LATE The delivery appt has passed
+1707704 20118 LATE The delivery appt has passed
+1707373 22228 LATE The delivery appt has passed
+1705792 22124 LATE The delivery appt has passed
+1701766 2121 LATE The delivery appt has passed
+1703860 20211 LATE The transit time is too long. Driver is rolling 204 miles out with an ETA of 11/01/2024 0925 for a 11/01/2024 0700 APPT.
+1703058 12429 LATE The transit time is too long. Driver is rolling 99 miles out with an ETA of 11/01/2024 0724 for a 11/01/2024 0600 APPT.
+1704757 11823 LATE The transit time is too long. Driver is not rolling and does not have enough HOS for transit.
+1706877 22224 LATE The transit time is too long. Driver is rolling 188 miles out with an ETA of 11/01/2024 0907 for a 11/01/2024 0845 APPT.
+1702063 12415 LATE The transit time is too long. Driver is rolling 166 miles out with an ETA of 11/01/2024 0842 for a 11/01/2024 0800 APPT.
+1708325 12407 LATE The transit time is too long. Driver is not rolling
+1706273 2337 LATE The transit time is too long. Driver is not rolling
+1704515 C2424 LATE The transit time is too long. Driver is rolling 160 miles out with an ETA of 11/01/2024 0835 for a 11/01/2024 0830 APPT.
+1708262 20224 LATE The transit time is too long. Driver is rolling 193 miles out with an ETA of 11/01/2024 0913 for a 11/01/2024 0900 APPT.
+1700768 2375 LATE Driver does not have enough drive time and cannot break
+1705778 2401 LATE Driver does not have enough drive time and cannot break
+1705386 21109 LATE Driver's break will not end in time to roll for OTD.
+ 
+ 
+ 
+1708922 2146 ONTIME Driver is rolling 216 miles out. ETA is 11/01/2024 0939 for a 11/01/2024 1400 APPT.
+1705491 20142 ONTIME Driver is rolling 22 miles out. ETA is 11/01/2024 0555 for a 11/01/2024 0600 APPT.
+1705124 2287 FOLLOWUP Driver needs to roll by 11/01/2024 0800
+1709455 B492 ONTIME Driver is rolling 12 miles out. ETA is 11/01/2024 0544 for a 11/01/2024 0630 APPT.
+1705852 C2441 FOLLOWUP Driver needs to roll by 11/01/2024 0629
+1708327 12340 ONTIME Driver is rolling 45 miles out. ETA is 11/01/2024 0622 for a 11/01/2024 0800 APPT.
+1708012 2052 FOLLOWUP Driver needs to roll by 11/01/2024 0658
+1706599 2102 FOLLOWUP Driver needs to roll by 11/01/2024 0543
+1704015 22119 FOLLOWUP Driver needs to roll by 11/01/2024 0917
+1705158 11363 ONTIME Driver is rolling 53 miles out. ETA is 11/01/2024 0631 for a 11/01/2024 0800 APPT.
+1702102 12256 FOLLOWUP Driver needs to roll by 11/01/2024 0746
+1688558 2113 ONTIME Driver is rolling 84 miles out. ETA is 11/01/2024 0707 for a 11/01/2024 0800 APPT.
+1701316 21104 ONTIME Driver is rolling 15 miles out. ETA is 11/01/2024 0547 for a 11/01/2024 0830 APPT.
+1704463 2229 FOLLOWUP Driver needs to roll by 11/01/2024 0833
+1705435 2180 ONTIME Driver is rolling 106 miles out. ETA is 11/01/2024 0732 for a 11/01/2024 0830 APPT.
+1700056 22206 FOLLOWUP Driver needs to roll by 11/01/2024 0833
+1705727 B539 FOLLOWUP Driver needs to roll by 11/01/2024 1136
+1706410 2280 FOLLOWUP Driver needs to roll by 11/01/2024 0736
+1707797 22185 FOLLOWUP Driver needs to roll by 11/01/2024 0753
+1708867 12311 FOLLOWUP Driver needs to roll by 11/01/2024 0853
+1708722 2266 FOLLOWUP Driver needs to roll by 11/01/2024 1303
+1707798 2207 ONTIME Driver is rolling 188 miles out. ETA is 11/01/2024 0907 for a 11/01/2024 1000 APPT.
+1708205 2196 ONTIME Driver is rolling 73 miles out. ETA is 11/01/2024 0654 for a 11/01/2024 1130 APPT.
+1708636 20233 FOLLOWUP Driver needs to roll by 11/01/2024 0936
+1706333 12458 FOLLOWUP Driver needs to roll by 11/01/2024 0847
+1705243 12420 FOLLOWUP Driver needs to roll by 11/01/2024 0923
+1706335 22147 ONTIME Driver is rolling 279 miles out. ETA is 11/01/2024 1052 for a 11/01/2024 1300 APPT.
+1705244 2129 ONTIME Driver is rolling 227 miles out. ETA is 11/01/2024 0952 for a 11/01/2024 1330 APPT.
+1701168 12410 FOLLOWUP Driver needs to roll by 11/01/2024 1255
+1705728 20115 FOLLOWUP Driver needs to roll by 11/01/2024 1500
+1705730 22184 FOLLOWUP Driver needs to roll by 11/01/2024 1314
+1705559 2427 FOLLOWUP Driver needs to roll by 11/01/2024 1328
+1709150 22133 FOLLOWUP Driver needs to roll by 11/01/2024 1645
+1707895 12332 FOLLOWUP Driver needs to roll by 11/01/2024 1348
+1707351 22110 ONTIME Driver is rolling 171 miles out. ETA is 11/01/2024 0847 for a 11/01/2024 1700 APPT.
+1706901 23106 FOLLOWUP Driver needs to roll by 11/01/2024 1429
+1707354 23101 FOLLOWUP Driver needs to roll by 11/01/2024 1231
+1707553 12444 FOLLOWUP Driver needs to roll by 11/01/2024 1640
+1707355 20231 ONTIME Driver is rolling 7 miles out. ETA is 11/01/2024 0538 for a 11/01/2024 2000 APPT.
+1707472 B525 ONTIME Driver is rolling 182 miles out. ETA is 11/01/2024 0900 for a 11/01/2024 2030 APPT.
+1706397 21112 FOLLOWUP Driver needs to roll by 11/01/2024 1410
+1707356 2440 FOLLOWUP Driver needs to roll by 11/01/2024 1648
+1706585 2394 FOLLOWUP Driver needs to roll by 11/01/2024 1320
+1707709 2119 FOLLOWUP Driver needs to roll by 11/01/2024 1854
+1706282 22226 ONTIME Driver is rolling 555 miles out. ETA is 11/01/2024 1610 for a 11/02/2024 0800 APPT.
+1709017 2366 FOLLOWUP Driver needs to roll by 11/01/2024 2340
+1706297 C2437 ONTIME Driver is rolling 593 miles out. ETA is 11/01/2024 1654 for a 11/02/2024 0900 APPT.
+1707773 19102 FOLLOWUP Driver needs to roll by 11/02/2024 0148
+1707253 12392 FOLLOWUP Driver needs to roll by 11/01/2024 1731
+1700190 22131 ONTIME Driver is rolling 401 miles out. ETA is 11/01/2024 1313 for a 11/02/2024 0800 APPT.
+1707256 2311 FOLLOWUP Driver needs to roll by 11/02/2024 0514
+1705597 C2445 ONTIME Driver is rolling 414 miles out. ETA is 11/01/2024 1328 for a 11/02/2024 0800 APPT.
+1705162 12426 ONTIME Driver is rolling 453 miles out. ETA is 11/01/2024 1413 for a 11/02/2024 0830 APPT.
+1704465 C2452 FOLLOWUP Driver needs to roll by 11/01/2024 2209
+1707269 C2457 ONTIME Driver is rolling 482 miles out. ETA is 11/01/2024 1446 for a 11/02/2024 1200 APPT.
+1703217 22218 ONTIME Driver is rolling 320 miles out. ETA is 11/01/2024 1139 for a 11/02/2024 1030 APPT.
+1703619 22181 FOLLOWUP Driver needs to roll by 11/02/2024 0318
